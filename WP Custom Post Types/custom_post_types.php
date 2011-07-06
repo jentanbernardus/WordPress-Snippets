@@ -49,7 +49,7 @@ function create_custom_meta(){
 	
 	*/
 
-	add_meta_box("my_products", "Product Information", "my_products", "my_products", "normal", "low");
+	add_meta_box("my_products", "Product Information", "my_products_meta", "my_products", "normal", "low");
 	
 	function my_products_meta(){
 	

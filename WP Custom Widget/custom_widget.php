@@ -1,4 +1,3 @@
-<?php
 
 /*
 	
@@ -78,5 +77,3 @@ class Custom_Widget extends WP_Widget {
 }
 
 register_widget('Custom_Widget');
-
-?>
